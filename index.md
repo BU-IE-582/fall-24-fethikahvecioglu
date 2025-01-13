@@ -14,6 +14,6 @@ Homework 2 [ipynb file](hw2/hw2.ipynb).
 
 ### Project - Group 1
 Project [report](project/Project-Report.html).
-Project [html file](project/project.html)
+Project [html file](project/project.html).
 Project [ipynb file](project/project.ipynb).
 
